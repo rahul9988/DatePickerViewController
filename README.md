@@ -1,4 +1,7 @@
 # DatePickerViewController
 DatePickerViewController that gives a feel of UIAlertView
 
-![Alt Text](https://github.com/rahul9988/DatePickerViewController/blob/master/demo.gif)
+
+<h3 align="center">
+<img src="demo.gif" alt="Screenshot of Quick Chat for iOS" />
+</h3>
